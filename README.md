@@ -1,4 +1,4 @@
-# Laboratio para creación de usuario en Microsfot Entra ID y habilitación de mfa
+# Laboratorio para creación de usuario en Microsoft Entra ID y habilitación de mfa
 
 # Introducción
 
@@ -7,7 +7,7 @@ En el presente laboratorio se mostrará como crear un usuario, y habilitar el mf
 
 ## 1. Creación de usuario
 
-Ingresar al portal de azure e ingresar al servicio de Microsoft Entra Id
+Ingresar al portal de azure y luego al servicio de Microsoft Entra Id
 ![alt text](./imagenes/image.png)
 
 
@@ -92,7 +92,7 @@ En el siguiente mensaje nos indica que en el celular, en la aplicación microsof
 Damos click en la opción de Scan QR, y escaneamos el QR que se muestra en pantalla
 ![alt text](./imagenes/image-21.png)
 
-Una vez finalizado el scan y le hemos dado click en siguiente, nos llegará una notificación a nuestro celular, en el cual colocamos el par de digitos que se muestra en la web
+Una vez finalizado el scan y le hemos dado click en siguiente, nos llegará una notificación a nuestro celular, en el cual colocamos el par de dígitos que se muestra en la web
 ![alt text](./imagenes/image-22.png)
 
 Si lo hacemos de forma correcta, nos mostrará que la notificación 
@@ -108,6 +108,6 @@ Adicional a ello, nos pedirá validar nuestra identidad enviandonos un código a
 
 ![alt text](./imagenes/image-25.png)
 
-El cual luego de ingresado recien nos permitirá ingresar.
+El cual luego de ingresado el código recién nos permitirá acceder al portal.
 
 ![alt text](./imagenes/image-26.png)
